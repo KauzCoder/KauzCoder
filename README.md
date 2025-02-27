@@ -26,7 +26,6 @@
 ---
 
 📫 **Entre em contato:**  
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)(www.linkedin.com/in/
-kauã-mendes)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/kau%C3%A3-mendes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)(mailto:kauzcoder.dev@gmail.com)  
+![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)(emailto:kauzcoder.dev@gmail.com)  
