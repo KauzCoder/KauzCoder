@@ -13,7 +13,7 @@
 
 💻 Atualmente estou estudando
 - Desenvolvimento Web 🌐
-- Backend e Arquitetura de Sistemas 🏗️
+- Backend e Frontend 🏗️
 - Práticas avançadas de programação e otimização de código ⚡
 
 🚀 Sempre aberto para colaborações e novas oportunidades!
