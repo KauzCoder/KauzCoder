@@ -1,81 +1,76 @@
-<h1 align="center">👋 Olá, eu sou o Kaua Mendes Fragoso!</h1>
+# Kaua Mendes Fragoso
 
-<p align="center">
-  🎓 Estudante de Ciência da Computação | 💻 Dev em formação | 🚀 Apaixonado por tecnologia
-</p>
+**👨‍💻 Estudante de Ciência da Computação**  
 
----
-
-## 🙋‍♂️ Sobre Mim
-
-- 🎓 Estudando Ciência da Computação na UNAMA (Belém/PA)
-- 🔎 Interessado em Desenvolvimento Web, IA e Segurança da Informação
-- 🌱 Atualmente aprendendo JavaScript, React e Node.js
-- ✍️ Gosto de resolver problemas, criar soluções e aprender com a prática
-- 🤝 Aberto a colaborações, feedbacks e conexões
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-mendes) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauzcoder.dev@gmail.com)
 
 ---
 
-## 🧰 Linguagens e Ferramentas que estou aprendendo
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,figma,git,github,vscode,bootstrap" />
-</div>
+## 🎯 Sobre Mim
+💡  Sou estudante de Ciência da Computação na Universidade da Amazônia (UNAMA), com um grande interesse em desenvolvimento de software, inteligência artificial e soluções tecnológicas inovadoras. Estou sempre em busca de aplicar meus conhecimentos acadêmicos em projetos práticos que me ajudem a aprimorar habilidades como programação, análise de sistemas e resolução de problemas. Tenho uma abordagem proativa, sou detalhista e estou motivado a aprender novas tecnologias em ambientes desafiadores. Meu inglês é intermediário, o que me permite compreender e me comunicar efetivamente em contextos técnicos e internacionais.
+
+💻 Atualmente estou estudando
+- Desenvolvimento Web 🌐
+- Backend e Frontend 🏗️
+- Práticas avançadas de programação e otimização de código ⚡
+
+🚀 Sempre aberto para colaborações e novas oportunidades!
 
 ---
 
-## 📚 Cursos Complementares
+## 🛠️ Habilidades
+```yaml
+Linguagens de Programação:
+  Linguagens de Programação:
+  - Python 🐍
+  - JavaScript 🌐
 
-- **HTML e CSS: praticando HTML/CSS**  
-- **Ambientes de desenvolvimento, estrutura de arquivos e tags**  
-- **Classes, posicionamento e Flexbox**  
-- **Trabalhando com responsividade e publicação de projetos**  
-- **Masterclass Figma: do zero à criação de uma landing page**  
-- **Figma: conhecendo a ferramenta**  
-- **Gestão Ágil: conceitos, Scrum e Kanban**
+Frameworks e Tecnologias:
+  
 
----
+Ferramentas:
+  - Git & GitHub 🛠️
+  - Trello 
+  - VS Code 📝
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kauzcoder&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauzcoder&layout=compact&theme=midnight-purple" />
-</div>
-
----
-
-## 💼 Formação Acadêmica
-
-- 🎓 **Bacharelado em Ciência da Computação** – UNAMA  
-  _2025–2029_
-
-- 📘 **Curso de Inglês Avançado** – CCAA  
-  _2025–2029_
+Áreas de Interesse:
+  - Inteligência Artificial 🤖
+  - Segurança da Informação 🔒
+  - Desenvolvimento Web e Mobile 📱
+```
 
 ---
 
-## 💡 Citação Favorita (opcional)
-
-> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
-
----
-
-## ☕ Apoie meu trabalho
-
-Se você gostou dos meus projetos ou quer me ajudar a continuar aprendendo:
-
-<a href="https://www.buymeacoffee.com/SEUUSUARIO" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+## 📚 Formação Acadêmica
+🎓 **Bacharelado em Ciência da Computação** - UNAMA (em andamento)
 
 ---
 
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-mendes)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauzcoder.dev@gmail.com)
+## 💼 Experiência Profissional
+Ainda em busca de experiências para consolidar meus conhecimentos e expandir minhas habilidades em desenvolvimento de software.
 
 ---
 
-<p align="center">
-  Feito com ❤️ por <strong>Kaua Mendes</strong>
-</p>
+## 🚀 Projetos Destacados
+
+
+---
+
+## 📜 Certificações & Cursos
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kauzcoder&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=midnight-purple)
+
+---
+
+## 📞 Contato
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauzcoder.dev@gmail.com)
+
+📍 Localização: Belem, PA, Brasil  
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=codepen&logoColor=white)](#)
