@@ -9,9 +9,9 @@
 ---
 
 ## 📌 Sobre Mim
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
+<table style="border: none;" border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <td style="border: none;">
       
 👋 Olá! Meu nome é **Kauã**, sou estudante de **Ciência da Computação** e apaixonado por tecnologia.  
 Comecei minha jornada com **HTML, CSS e JavaScript**, e desde então venho explorando cada vez mais o mundo do **desenvolvimento web**.  
@@ -27,13 +27,11 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
 
     </td>
-    <td width="400" align="center">
-      <img src="https://github.com/KauzCoder/KauzCoder/blob/2dd199decd9bd3944a08d221b71b1d10bc8b3458/1755668781235.png" 
-        width="400"/>
+    <td width="260" align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/SeuUser/SeuUser/main/1755668781235.png" width="260" />
     </td>
   </tr>
-</table  >
-
+</table>
 ---
 
 ## 🌐 Contato & Redes
