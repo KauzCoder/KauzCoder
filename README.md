@@ -38,7 +38,9 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 ## 🌐 Contato & Redes
 <p align="left">
   <a href="mailto:Kauzcoder.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/kauã-mendes"><img src="https://img.shields.io/badge/LinkedIn-Conectar-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kauã-mendes/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
   <a href="https://www.instagram.com/kkaumendess?igsh=ZXdoMjl0eGRtaDh6"><img src="https://img.shields.io/badge/Instagram-Seguir-8B4513?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://kaua.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-A0522D?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
