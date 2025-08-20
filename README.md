@@ -28,7 +28,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
     </td>
     <td width="260" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/SeuUser/SeuUser/main/1755668781235.png" width="260" />
+      <img src="https://github.com/KauzCoder/KauzCoder/blob/f7308612486ad379f6bdc4d8286a7a0d8156f022/1755668781235.png" width="260" />
     </td>
   </tr>
 </table>
