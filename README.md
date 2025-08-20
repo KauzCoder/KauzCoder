@@ -32,6 +32,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🌐 Contato & Redes
@@ -108,5 +109,5 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 ---
 
 <p align="center">
-  Feito com ☕, teclado mecânico e muitas horas de depuração. 😄
+  Sempre aprendendo, sempre criando — um commit de cada vez 🚀
 </p>
