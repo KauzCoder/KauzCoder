@@ -69,7 +69,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
   <img height="160" src="https://streak-stats.demolab.com?user=KauzCoder&theme=gruvbox&hide_border=true" />
 </p>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&layout=compact&theme=gruvbox&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&layout=compact&theme=gruvbox&hide_border=true" />
   <img height="160" src="https://github-profile-trophy.vercel.app/?username=KauzCoder&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
 </p>
 
@@ -77,11 +77,11 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
 ## ⭐ Projetos em Destaque
 <p align="left">
-  <a href="https://github.com/SeuUser/portfolio-retro-futurista">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUser&repo=portfolio-retro-futurista&theme=gruvbox&hide_border=true" />
+  <a href="(https://github.com/KauzCoder/Exercicios-POO.git)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-POO&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/SeuUser/app-fullstack-estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUser&repo=app-fullstack-estudos&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-Estruturas-de-dados&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <p align="left">
