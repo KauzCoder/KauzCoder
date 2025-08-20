@@ -69,7 +69,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
   <img height="160" src="https://streak-stats.demolab.com?user=KauzCoder&theme=gruvbox&hide_border=true" />
 </p>
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&layout=compact&theme=gruvbox&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=60" />
   <img height="160" src="https://github-profile-trophy.vercel.app/?username=KauzCoder&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
 </p>
 
