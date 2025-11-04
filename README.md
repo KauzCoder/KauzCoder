@@ -86,7 +86,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 </p>
 <p align="left">
   <a href="https://github.com/KauzCoder/js-coding-notes.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUser&repo=site-pessoal&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUser&repo=js-coding-notes&theme=gruvbox&hide_border=true" />
   </a>
   <a href="https://github.com/SeuUser/componentes-angular">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUser&repo=componentes-angular&theme=gruvbox&hide_border=true" />
