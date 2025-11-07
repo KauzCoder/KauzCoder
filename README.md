@@ -49,7 +49,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
 ## 🧰 Tecnologias que já utilizei
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,python,git,github,express,docker,linux,mysql,postgres,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,git,github,express,docker,linux,mysql,postgres,figma,vscode" />
 </p>
 
 ---
@@ -64,20 +64,31 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 ---
 
 ## 📈 Estatísticas do GitHub
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KauzCoder&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=KauzCoder&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/KauzCoder">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=KauzCoder&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&custom_title=📊%20Atividade%20no%20GitHub&rank_icon=github" />
+  </a>
+  <a href="https://github.com/KauzCoder">
+    <img height="165" src="https://streak-stats.demolab.com?user=KauzCoder&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFA500&ring=FCA311&currStreakLabel=FFD700" />
+  </a>
 </p>
+
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=60" />
-  <img height="160" src="https://github-profile-trophy.vercel.app/?username=KauzCoder&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+  <a href="https://github.com/KauzCoder">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&card_width=380" />
+  </a>
+  <a href="https://github.com/KauzCoder">
+    <img height="165" src="https://github-profile-trophy.vercel.app/?username=KauzCoder&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=5&margin-w=10&margin-h=10" />
+  </a>
 </p>
+
 
 ---
 
 ## ⭐ Projetos em Destaque
 <p align="left">
-  <a href="(https://github.com/KauzCoder/Exercicios-POO.git)">
+  <a href="https://github.com/KauzCoder/Exercicios-POO.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-POO&theme=gruvbox&hide_border=true" />
   </a>
   <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados.git">
@@ -88,23 +99,25 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
   <a href="https://github.com/KauzCoder/js-coding-notes.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=js-coding-notes&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/SeuUser/componentes-angular">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeuUser&repo=componentes-angular&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/KauzCoder/html-css-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=html-css-lab&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+---
+
+## 📊 Gráfico de Atividade
+
+<p align="center">
+  <a href="https://github.com/KauzCoder">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauzCoder&theme=gruvbox&bg_color=1E1E1E&color=FFD700&line=FCA311&point=FFB000&area=true&hide_border=true" width="100%"/>
   </a>
 </p>
 
 ---
 
-## 📊 Gráfico de Atividade
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauzCoder&theme=gruvbox&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Próximos Passos
-- Aprimorar conhecimentos em **React e Angular**  
-- Aprofundar em **Node.js e APIs REST**  
+- Avançar em **JavaScript** e **Node.js**  
+- Iniciar estudos em **React** e **Angular**  
 - Criar projetos **Full-Stack** do zero  
 - Contribuir em **projetos open-source**  
 
