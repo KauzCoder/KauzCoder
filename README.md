@@ -55,7 +55,7 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 ---
 
 ## 🧪 Stack Principal
-**Frontend (quase dominado):** HTML5 • CSS3 • JavaScript • Figma • Fundamentos de Design/UI  
+**Frontend Frontend (base mais sólida):** HTML5 • CSS3 • JavaScript • Figma • Fundamentos de Design/UI  
 **Frontend (em progresso):** Angular • Typescript  
 **Backend:** Java • Typescript • Python (iniciante)  
 **Banco de Dados:** MySQL • PostgreSQL (iniciante)  
