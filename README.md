@@ -109,9 +109,20 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
 <p align="center">
   <a href="https://github.com/KauzCoder">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauzCoder&theme=gruvbox&bg_color=1E1E1E&color=FFD700&line=FCA311&point=FFB000&area=true&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?
+username=KauzCoder
+&theme=gruvbox
+&bg_color=1E1E1E
+&color=FFD700
+&line=FCA311
+&point=FFB000
+&area=true
+&hide_border=true
+&radius=10
+&custom_title=Atividade%20de%20Commits%20de%20KauzCoder" width="100%"/>
   </a>
 </p>
+
 
 ---
 
