@@ -99,8 +99,8 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
   <a href="https://github.com/KauzCoder/js-coding-notes.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=js-coding-notes&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/KauzCoder/html-css-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=html-css-lab&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/KauzCoder/healthcare-manager-java.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=healthcare-manager-java&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 ---
