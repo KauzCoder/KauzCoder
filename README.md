@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/KauzCoder/KauzCoder/blob/2dd199decd9bd3944a08d221b71b1d10bc8b3458/download_3.gif" alt="Banner" width="100%"/>
+  <img src="assets/download (1).gif" alt="Banner" width="100%"/ style="border-radius: 15px">
 </p>
 
-<h1 align="center">☕ Olá mundo, meu nome é Kauã Mendes</h1>
+<h1 align="center">▒ Olá Mundo! Meu nome é Kauã Mendes ▒</h1>
 <h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvedor Web em formação | Focado em Full-Stack</h3>
 
 ---
@@ -28,14 +28,14 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
     </td>
     <td width="360" align="center" style="border: none;">
-      <img src="https://github.com/KauzCoder/KauzCoder/blob/f7308612486ad379f6bdc4d8286a7a0d8156f022/1755668781235.png" width="360" />
+      <img src="assets/download-unscreen.gif" width="360" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌐 Contato & Redes
+## 🔗 Conecte-se Comigo
 <p align="left">
   <a href="mailto:Kauzcoder.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kauã-mendes/">
@@ -88,14 +88,6 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 
 ## ⭐ Projetos em Destaque
 <p align="left">
-  <a href="https://github.com/KauzCoder/Exercicios-POO.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-POO&theme=gruvbox&hide_border=true" />
-  </a>
-  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-Estruturas-de-dados&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<p align="left">
   <a href="https://github.com/KauzCoder/js-coding-notes.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=js-coding-notes&theme=gruvbox&hide_border=true" />
   </a>
@@ -103,6 +95,15 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=healthcare-manager-java&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/KauzCoder/Exercicios-POO.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-POO&theme=gruvbox&hide_border=true" />
+  </a>
+  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-Estruturas-de-dados&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
 ---
 
 ## 📊 Gráfico de Atividade
