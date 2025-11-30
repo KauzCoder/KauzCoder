@@ -1,9 +1,6 @@
 <!-- CABEÇALHO ANIMADO -->
 <p align="center">
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=220&section=header&text=Kauã%20Mendes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Press%20Start%202P" />
-</p>
-
 </p>
 
 <!-- TÍTULO COM DIGITAÇÃO ANIMADA -->
@@ -146,7 +143,11 @@ Busco sempre evoluir em **boas práticas**, **organização**, **clean code** e 
 ---
 
 <p align="center">
-  <img src="https://github.com/KauzCoder/KauzCoder/blob/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KauzCoder/KauzCoder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KauzCoder/KauzCoder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KauzCoder/KauzCoder/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
