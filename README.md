@@ -1,6 +1,6 @@
 <!-- CABEÇALHO ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=220&section=header&text=Kauã%20Mendes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Press%20Start%202P" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=220&section=header&text=Kauã%20Mendes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- TÍTULO COM DIGITAÇÃO ANIMADA -->
