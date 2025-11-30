@@ -1,105 +1,136 @@
-<!-- Banner -->
+<!-- CABEÇALHO ANIMADO -->
 <p align="center">
-  <img src="assets/download (1).gif" alt="Banner" width="100%"/ style="border-radius: 15px">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=220&section=header&text=Kauã%20Mendes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Press%20Start%202P" />
 </p>
 
-<h1 align="center">▒ Olá Mundo! Meu nome é Kauã Mendes ▒</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | Desenvolvedor Web em formação | Focado em Full-Stack</h3>
+</p>
+
+<!-- TÍTULO COM DIGITAÇÃO ANIMADA -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FBBF24&center=true&vCenter=true&width=800&lines=Olá%2C+Mundo!+Eu+sou+o+Kauã+Mendes;Desenvolvimento+Web+%7C+Full+Stack+em+Evolução;Explorando+Frontend+e+Backend;Buscando+conhecimento+e+boas+práticas+🚀" />
+  </a>
+</p>
 
 ---
 
+<p align="center">
+  <img src="assets/🔥 Pixel Cafe Wallpapers on WallpaperSafari.gif" alt="Banner" width="100%" style="border-radius: 15px;" />
+</p>
+
+<h3 align="center">💻 Ciência da Computação | Desenvolvimento Web | Full-Stack em Construção</h3>
+
+<!-- LINHA ANIMADA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+</p>
+
 ## 📌 Sobre Mim
+
 <table style="border: none;" border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <td style="border: none;">
-      
-👋 Olá! Meu nome é **Kauã**, sou estudante de **Ciência da Computação** e apaixonado por tecnologia.  
-Comecei minha jornada com **HTML, CSS e JavaScript**, e desde então venho explorando cada vez mais o mundo do **desenvolvimento web**.  
-Gosto de unir **design criativo** e **código limpo** para transformar ideias em projetos funcionais e bonitos. 🚀  
+  <tr style="border: none; vertical-align: middle;">
+    <td style="border: none; width: 60%;">
 
-**Atualmente:**  
-- 🌱 Estudando **Java (POO/ED)**, explorando **Angular**, **TypeScript** e noções de **Node.js**  
-- 💻 Curto trabalhar com **Frontend + Backend** e foco muito em **UI/UX**  
-- 🎨 Já estudei bastante sobre **Figma** e fundamentos de **design digital**  
-- 🔐 Curiosidade extra: **Cibersegurança**  
-- 🎯 Objetivo: criar projetos úteis, bonitos e performáticos  
-- 🤝 Pergunte-me sobre: **HTML, CSS, JavaScript, Figma, UI/UX, Java, Git/GitHub**  
+👋 Meu nome é **Kauã** e atualmente curso **Ciência da Computação**.  
+Tenho interesse em diferentes áreas da tecnologia e venho desenvolvendo habilidades tanto no **Frontend** quanto no **Backend**, explorando o ecossistema completo do desenvolvimento web.
 
+Comecei meus estudos com **HTML, CSS e JavaScript**, e desde então ampliei minha base para frameworks, linguagens e ferramentas que me permitem trabalhar em múltiplas camadas das aplicações.
 
-    </td>
-    <td width="360" align="center" style="border: none;">
-      <img src="assets/download-unscreen.gif" width="360" />
-    </td>
+Busco sempre evoluir em **boas práticas**, **organização**, **clean code** e entendimento sólido de estruturas e processos internos.
+
+**Atualmente estudo:**  
+- 📚 **Java (POO e Estruturas de Dados)**  
+- 🧩 **Angular** e **TypeScript**  
+- 🔧 Introdução a **Node.js**  
+- 🎨 Noções de design com **Figma**  
+- 🔐 Interesses gerais em **cibersegurança** e fundamentos de aplicações seguras
+
+**Objetivo:** evoluir como desenvolvedor **full-stack**, construindo projetos completos e bem estruturados.
+
+  </td>
+
+  <td style="border: none; width: 40%; text-align: center;">
+      <img src="assets/download-unscreen.gif" width="260" style="border-radius: 12px;">
+  </td>
   </tr>
 </table>
 
 ---
 
-## 🔗 Conecte-se Comigo
-<p align="left">
-  <a href="mailto:Kauzcoder.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="mailto:Kauzcoder.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-8B5E3C?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/kauã-mendes/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-  <a href="https://www.instagram.com/kkaumendess?igsh=ZXdoMjl0eGRtaDh6"><img src="https://img.shields.io/badge/Instagram-Seguir-8B4513?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://kaua.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-A0522D?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-6F4E37?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/kkaumendess?igsh=ZXdoMjl0eGRtaDh6">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-8B4513?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://kaua.dev">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-A0522D?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🧰 Tecnologias que já utilizei
+## 🧰 Tecnologias & Ferramentas
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,git,github,express,docker,linux,mysql,postgres,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,python,nodejs,express,git,github,docker,linux,mysql,postgres,figma,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 🧪 Stack Principal
-**Frontend Frontend (base mais sólida):** HTML5 • CSS3 • JavaScript • Figma • Fundamentos de Design/UI  
-**Frontend (em progresso):** Angular • Typescript  
-**Backend:** Java • Typescript • Python (iniciante)  
-**Banco de Dados:** MySQL • PostgreSQL (iniciante)  
-**Ferramentas:** Git • GitHub • VSCode • Docker (básico)
+
+**Frontend:**  
+`HTML5` • `CSS3` • `JavaScript` • `Figma` • `UI/UX (fundamentos)` • `Angular` • `TypeScript`  
+
+**Backend:**  
+`Java` • `Node.js (iniciante)` • `Python (iniciante)`  
+
+**Banco de Dados:**  
+`MySQL` • `PostgreSQL`  
+
+**Ferramentas:**  
+`Git` • `GitHub` • `VSCode` • `Docker (básico)` • `Linux`
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/KauzCoder">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=KauzCoder&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&custom_title=📊%20Atividade%20no%20GitHub&rank_icon=github" />
-  </a>
-  <a href="https://github.com/KauzCoder">
-    <img height="165" src="https://streak-stats.demolab.com?user=KauzCoder&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFA500&ring=FCA311&currStreakLabel=FFD700" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KauzCoder&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&custom_title=📊%20Atividade%20no%20GitHub&rank_icon=github" />
+  <img height="165" src="https://streak-stats.demolab.com?user=KauzCoder&theme=gruvbox&hide_border=true&fire=FFA500&ring=FCA311" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/KauzCoder">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&card_width=380" />
-  </a>
-  <a href="https://github.com/KauzCoder">
-    <img height="165" src="https://github-profile-trophy.vercel.app/?username=KauzCoder&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=5&margin-w=10&margin-h=10" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauzCoder&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&card_width=380" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=KauzCoder&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=5" />
 </p>
-
 
 ---
 
 ## ⭐ Projetos em Destaque
+
 <p align="left">
-  <a href="https://github.com/KauzCoder/js-coding-notes.git">
+  <a href="https://github.com/KauzCoder/js-coding-notes">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=js-coding-notes&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/KauzCoder/healthcare-manager-java.git">
+  <a href="https://github.com/KauzCoder/healthcare-manager-java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=healthcare-manager-java&theme=gruvbox&hide_border=true" />
   </a>
 </p>
+
 <p align="left">
-  <a href="https://github.com/KauzCoder/Exercicios-POO.git">
+  <a href="https://github.com/KauzCoder/Exercicios-POO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-POO&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados.git">
+  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-Estruturas-de-dados&theme=gruvbox&hide_border=true" />
   </a>
 </p>
@@ -109,22 +140,31 @@ Gosto de unir **design criativo** e **código limpo** para transformar ideias em
 ## 📊 Gráfico de Atividade
 
 <p align="center">
-  <a href="https://github.com/KauzCoder">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauzCoder&theme=gruvbox&bg_color=1E1E1E&color=FFD700&line=FCA311&point=FFB000&area=true&hide_border=true&radius=10&custom_title=Atividade%20de%20Commits%20de%20KauzCoder" width="100%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KauzCoder&theme=gruvbox&bg_color=1E1E1E&color=FFD700&line=FCA311&point=FFB000&area=true&hide_border=true&radius=10" width="100%"/>
 </p>
-
-
----
-
-## 🎯 Próximos Passos
-- Avançar em **JavaScript** e **Node.js**  
-- Iniciar estudos em **React** e **Angular**  
-- Criar projetos **Full-Stack** do zero  
-- Contribuir em **projetos open-source**  
 
 ---
 
 <p align="center">
-  Sempre aprendendo, sempre criando — um commit de cada vez 🚀
+  <img src="https://github.com/KauzCoder/KauzCoder/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 Próximos Passos
+
+- Ampliar conhecimento em **JavaScript**, **TypeScript** e **Node.js**  
+- Aprofundar estudos em **Angular**  
+- Criar projetos **full-stack completos**  
+- Colaborar em **projetos open-source**  
+- Aprimorar organização, arquitetura e boas práticas de desenvolvimento  
+
+---
+
+<p align="center">
+  🚀 Evoluindo um passo por vez, aprendendo continuamente.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
 </p>
