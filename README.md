@@ -162,9 +162,5 @@ Busco sempre evoluir em **boas práticas**, **organização**, **clean code** e 
 ---
 
 <p align="center">
-  🚀 Evoluindo um passo por vez, aprendendo continuamente.
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
 </p>
