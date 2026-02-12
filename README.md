@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:b45309&height=220&section=header&text=Kauã%20Mendes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- TÍTULO COM DIGITAÇÃO ANIMADA -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FBBF24&center=true&vCenter=true&width=900&lines=Olá,+Mundo!+Eu+sou+o+Kauã+Mendes;Desenvolvedor+Web+|+Full+Stack+em+evolução;Explorando+Frontend+e+Backend;Buscando+conhecimento+e+boas+práticas+🚀" 
