@@ -5,9 +5,9 @@
 
 <!-- TÍTULO COM DIGITAÇÃO ANIMADA -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FBBF24&center=true&vCenter=true&width=800&lines=Olá%2C+Mundo!+Eu+sou+o+Kauã+Mendes;Desenvolvimento+Web+%7C+Full+Stack+em+Evolução;Explorando+Frontend+e+Backend;Buscando+conhecimento+e+boas+práticas+🚀" />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FBBF24&center=true&vCenter=true&width=900&lines=Olá,+Mundo!+Eu+sou+o+Kauã+Mendes;Desenvolvedor+Web+|+Full+Stack+em+evolução;Explorando+Frontend+e+Backend;Buscando+conhecimento+e+boas+práticas+🚀" 
+  />
 </p>
 
 ---
