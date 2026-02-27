@@ -114,19 +114,19 @@ Busco sempre evoluir em **boas práticas**, **organização**, **clean code** e 
 ## ⭐ Projetos em Destaque
 
 <p align="left">
-  <a href="https://github.com/KauzCoder/js-coding-notes">
+  <a href="https://github.com/KauzCoder/js-coding-notes.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=js-coding-notes&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/KauzCoder/healthcare-manager-java">
+  <a href="https://github.com/KauzCoder/healthcare-manager-java.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=healthcare-manager-java&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/KauzCoder/Exercicios-POO">
+  <a href="https://github.com/KauzCoder/Exercicios-POO.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-POO&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados">
+  <a href="https://github.com/KauzCoder/Exercicios-Estruturas-de-dados.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauzCoder&repo=Exercicios-Estruturas-de-dados&theme=gruvbox&hide_border=true" />
   </a>
 </p>
